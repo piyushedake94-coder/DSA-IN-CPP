@@ -1,0 +1,9 @@
+## Objective
+1. To understand and implement a singly linked list in C++.
+2. To create a menu-driven student record management system.
+3. To add new student records dynamically.
+4. To search for student records using roll numbers.
+5. To display all student records stored in the linked list.
+6. To delete a student record from the linked list.
+7. To perform insertion and deletion using dynamic memory allocation.
+8. To manage student records efficiently and systematically.

@@ -1,0 +1,13 @@
+## Algorithm
+1. Start the program.
+2. Define a structure Student containing roll number, name, course, marks, and a pointer to the next node.
+3. Initialize the head pointer to NULL.
+4. Display the menu with options: Add, Search, Display, Delete, and Exit.
+5. Accept the user's choice.
+6. If the choice is Add, create a new node, enter student details, and insert it at the end of the linked list.
+7. If the choice is Search, enter the roll number and traverse the list to find and display the student record.
+8. If the choice is Display, traverse the linked list and display all student records.
+9. If the choice is Delete, search for the given roll number, adjust the links, and delete the corresponding node.
+10. If the list is empty or the record is not found, display an appropriate message.
+11. Repeat the menu until the user selects the Exit option.
+12. Free the allocated memory and stop the program.

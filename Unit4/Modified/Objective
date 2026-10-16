@@ -1,0 +1,7 @@
+## Objective
+1. To construct a Binary Search Tree (BST) in C++ by inserting elements.
+2. To find the minimum element by traversing the leftmost nodes of the BST.
+3. To find the maximum element by traversing the rightmost nodes of the BST.
+4. To display the paths followed to reach the minimum and maximum elements.
+5. To count the number of comparisons required to find the minimum and maximum elements.
+6. To analyze the efficiency of BST traversal operations.

@@ -1,0 +1,17 @@
+## Algorithm
+1. Start the program.
+2. Create a node structure containing data, a left pointer, and a right pointer.
+3. Initialize the root pointer to NULL.
+4. Read the number of elements and insert them into the BST according to BST properties.
+5. To find the minimum element:
+   - Start from the root node.
+   - Display each node visited while moving to the left child.
+   - Count each comparison made to check whether the left child exists.
+   - Stop at the leftmost node and record its value.
+6. To find the maximum element:
+   - Start from the root node.
+   - Display each node visited while moving to the right child.
+   - Count each comparison made to check whether the right child exists.
+   - Stop at the rightmost node and record its value.
+7. Display the minimum and maximum elements, their traversal paths, and the comparison counts.
+8. Stop the program.

@@ -1,0 +1,4 @@
+## ProblemStatement
+
+Write a C++ program to construct a Binary Search Tree (BST), find its minimum and maximum elements,
+display the paths followed to reach them, and count the comparisons required for both operations.

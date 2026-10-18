@@ -1,7 +1,0 @@
-## Objective
-1. To understand and implement a Binary Search Tree (BST) in C++.
-2. To construct a BST by inserting elements according to BST properties.
-3. To find the minimum element by traversing the leftmost nodes.
-4. To find the maximum element by traversing the rightmost nodes.
-5. To avoid visiting every node while finding the minimum and maximum elements.
-6. To analyze the time complexity of minimum and maximum operations in a BST.

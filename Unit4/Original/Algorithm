@@ -1,0 +1,10 @@
+## Algorithm
+1. Start the program.
+2. Create a BST node containing data, a left pointer, and a right pointer.
+3. Insert elements into the BST according to BST properties:
+   - Smaller elements go to the left subtree.
+   - Larger elements go to the right subtree.
+4. To find the minimum element, traverse from the root to the leftmost node.
+5. To find the maximum element, traverse from the root to the rightmost node.
+6. Display the minimum and maximum elements.
+7. Stop the program.

@@ -1,1 +1,5 @@
 
+## Problem Statement
+To develop a menu-driven Student Record Management System in C++ using a Circular Singly Linked List. 
+The system should allow users to add student records, display all records, search for a student, 
+update student details, and delete a student record.

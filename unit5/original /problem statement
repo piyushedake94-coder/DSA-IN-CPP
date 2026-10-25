@@ -1,9 +1,0 @@
-problem statement;
-
-An electric vehicle (EV) charging network consists of several charging stations connected through roads or other routes. 
-Each charging station is represented as a vertex, and each connection between two stations is represented as an edge in 
-a graph.
-
-Develop a C++ program that represents the EV charging network using a graph and applies Depth First Search (DFS) from a
-selected starting station. The program should display the traversal order, list all reachable stations, and identify stations
-that are unreachable from the selected station.

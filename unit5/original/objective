@@ -1,0 +1,13 @@
+To represent an EV charging network using a graph.
+
+To represent charging stations as vertices and connections as edges.
+
+To implement the Depth First Search (DFS) algorithm in C++.
+
+To explore the network starting from a user-selected charging station.
+
+To display all stations reached during DFS traversal.
+
+To identify unreachable or isolated charging stations.
+
+To understand the practical application of graph traversal in EV charging infrastructure.

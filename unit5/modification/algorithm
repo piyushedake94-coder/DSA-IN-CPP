@@ -1,0 +1,27 @@
+Start the program.
+
+Read the number of charging stations (vertices) and connections (edges).
+
+Create an adjacency list to represent the graph.
+
+Read the connections between charging stations.
+
+Display the available vertices and accept the starting vertex.
+
+Initialize all vertices as unvisited.
+
+Perform DFS from the selected starting vertex and display the traversal order.
+
+Mark all vertices visited during DFS as reachable.
+
+Display the reachable vertices and identify unvisited vertices.
+
+Check the adjacency list to identify isolated vertices.
+
+Perform BFS from the selected starting vertex.
+
+Assign level 0 to the starting vertex and calculate the level of each reachable vertex.
+
+Count and display the total number of reachable vertices.
+
+Stop the program.

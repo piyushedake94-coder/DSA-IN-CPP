@@ -1,0 +1,13 @@
+To represent an EV charging network using a graph.
+
+To implement Depth First Search (DFS) for traversing the network.
+
+To allow the user to select any starting vertex.
+
+To identify reachable and unreachable charging stations.
+
+To identify isolated vertices with no connections.
+
+To implement Breadth First Search (BFS) to calculate the level of each reachable station.
+
+To count the total number of reachable charging stations.

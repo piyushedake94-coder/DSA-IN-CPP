@@ -1,0 +1,31 @@
+ALGORITHM;
+
+1)Start the program.
+
+2)Read the number of charging stations (vertices) and connections (edges).
+
+3)Create an adjacency list to represent the graph.
+
+4)Enter the connections between charging stations.
+
+5)Read the selected starting station.
+
+6)Initialize all stations as unvisited.
+
+7)Apply DFS recursively from the selected station:
+
+8)Mark the current station as visited.
+
+9)Display the current station.
+
+10)isit each adjacent station that has not been visited.
+
+11)After DFS finishes, check all stations.
+
+12)Display the stations reached during traversal.
+
+Display the unvisited stations as unreachable from the selected starting station.
+
+Identify isolated stations that have no connections.
+
+Stop the program.
